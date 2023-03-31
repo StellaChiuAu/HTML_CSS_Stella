@@ -1,0 +1,13 @@
+# HTML_CSS_Stella
+
+HTML Briefing:
+https://docs.google.com/forms/d/e/1FAIpQLSfH1Clw3ZNiIE_lmv4G7wPmr6gvnzZe0FOweeCRbu8rF79zjA/viewscore?viewscore=AE0zAgAbfk1miCErtr_eUQWDjW4tVw3j4UUW30CVUq8FB0g_ZhamiiYP39IRrXtSnxZ-Bgo
+
+HTML Briefing Part 2:
+https://docs.google.com/forms/d/e/1FAIpQLSeJciClNiEPrIBzgk6gCwMrxPVxvj8-fAGkyniux_O7JaC9Kg/viewscore?viewscore=AE0zAgCUhVQIJ1rQghBi3yBTxngXgIRYqwAfNBoKkCxay2YBn-_H3hUL6hAcqxrKm1SnMks
+
+CSS Brief:
+https://docs.google.com/forms/d/e/1FAIpQLSfO4wwjyolBtWRu5_piR5fbMyDdxxnnj3QbIoef0WwPW8nx0Q/viewscore?viewscore=AE0zAgBj6amc1Zkcwpxfp5BdFVNN3hOFKvnt3VH-BdzDPvkuCru569j2z_4s4_Qxpf0H76g
+
+CSS Part 2:
+https://docs.google.com/forms/d/e/1FAIpQLSffLijnEGLUY4Ry083V1121LMnuQcHPGvo4QWJYznprHeGPGQ/viewscore?viewscore=AE0zAgDqLBfQMEhUkhSl9EasWbgvWDoMHf1iJqfSnAn_PNbJ9gFV6v05dNlVIU9WkQ
